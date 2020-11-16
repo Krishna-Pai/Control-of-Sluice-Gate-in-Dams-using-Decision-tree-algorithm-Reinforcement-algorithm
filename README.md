@@ -8,7 +8,7 @@ An automated system to control the Sluice gates in dams using Artificial Intelli
 Team Leader and Hardware Developer
 
 ## Category:   
-Funded (Research and Development Cell of KLE DR.M S Sheshgiri College of Engineering and Technology, Belagavi).  
+Funded (NAIN – K-tech Innovation Hub, Karnataka Innovation & Technology Society, Government Of Karnataka).  
 
 ## Creators:
 1. Krishna Pai
